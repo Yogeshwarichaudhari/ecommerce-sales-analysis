@@ -1,0 +1,11 @@
+Order_ID,Customer_ID,Age,Gender,City,Loyalty_Member,Product_Category,Product_Name,Quantity,Unit_Price,Payment_Method,Order_Status,Order_Date,Rating
+1001,C001,23,Female,Mumbai,Yes,Electronics,Wireless Earbuds,1,2999,UPI,Delivered,2024-01-05,4
+1002,C002,35,Male,Pune,No,Home Decor,Wall Clock,2,899,Credit Card,Delivered,2024-01-07,5
+1003,C003,29,Female,Bangalore,Yes,Fashion,Women Kurti,1,1499,Debit Card,Cancelled,2024-01-10,2
+1004,C004,41,Male,Delhi,No,Electronics,Smart Watch,1,4999,Net Banking,Delivered,2024-01-15,4
+1005,C005,22,Female,Mumbai,Yes,Beauty,Face Serum,3,799,UPI,Returned,2024-01-18,3
+1006,C006,31,Male,Hyderabad,Yes,Electronics,Bluetooth Speaker,1,2599,Credit Card,Delivered,2024-01-22,5
+1007,C007,27,Female,Pune,No,Fashion,Men T-Shirt,2,699,UPI,Delivered,2024-01-25,4
+1008,C008,38,Male,Chennai,Yes,Home Decor,Table Lamp,1,1899,Debit Card,Delivered,2024-01-28,5
+1009,C009,45,Female,Delhi,No,Beauty,Hair Dryer,1,3499,Credit Card,Cancelled,2024-02-02,1
+1010,C010,26,Male,Bangalore,Yes,Electronics,Power Bank,2,1299,UPI,Delivered,2024-02-05,4
